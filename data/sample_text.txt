@@ -1,0 +1,13 @@
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by humans or animals. Leading AI textbooks define the field as the study of intelligent agents: any system that perceives its environment and takes actions that maximize its chance of achieving its goals. Some popular accounts use the term "artificial intelligence" to describe machines/systems that mimic human intelligence (e.g., chatbots, image recognition, natural language processing, etc.). However, many other AI systems don't fit this definition.
+
+Machine learning (ML) is a field of inquiry devoted to the study and construction of methods that allow computers to learn without being explicitly programmed. It overlaps with many other fields like computational intelligence and pattern recognition. However, machine learning focuses on the development of algorithms that can learn from and make predictions or decisions based on data, rather than being explicitly programmed with a particular task.
+
+Deep learning is a subset of machine learning that uses multi-layered neural networks. Deep learning methods have revolutionized speech recognition, image classification, natural language processing, and many other domains.
+
+Natural language processing (NLP) is the intersection of AI and linguistics. It focuses on the interaction between computers and human languages, including speech recognition, machine translation, and text analysis.
+
+Computer vision is a field that deals with how computers can gain high-level understanding from digital images or videos. It includes methods for image recognition, object detection, image generation, and more.
+
+Robotics is the branch of technology that deals with the design, construction, operation, and use of robots. It involves mechanical engineering, electrical engineering, and computer science to create robots that can perform tasks autonomously or with human guidance.
+
+These fields are interconnected and often overlap. For example, computer vision is often used in robotics, and machine learning is used in many AI applications. The boundaries between these fields are not always clear-cut, and there is ongoing research and debate about how to best categorize different approaches and technologies.
