@@ -2,6 +2,10 @@
 
 A production-grade text summarization application powered by LLaMA 2, FastAPI, and Streamlit. This project demonstrates modern AI application architecture with clean separation of concerns, reusable components, and comprehensive documentation for interview preparation.
 
+
+!["Llama Text Summarizer for School of AI Internship"]Text-SumP1.png
+
+
 ## 🎯 Business Case
 
 ### For CAIO/FinOps Roles ($100k+)
