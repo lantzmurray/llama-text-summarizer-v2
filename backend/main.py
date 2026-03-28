@@ -26,7 +26,7 @@ async def summarize(text: str = Form(...)):
     
     try:
         # Validate input
-        validate_input({"text": text})
+        validate_input({"text": text}, ["text"])
         
         # Create prompt
         prompt = f"Summarize this text:\n\n{text}"

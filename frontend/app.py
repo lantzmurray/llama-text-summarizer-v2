@@ -41,10 +41,7 @@ if st.button("Summarize"):
         except Exception as e:
             st.error(f"Connection error: {str(e)}")
 
-# Screenshot placeholder
-st.markdown("---")
-st.info("📸 Application screenshot")
-st.markdown("*Screenshot will be added: `screenshots/soai-01-*.png`*")
+
 
 # Footer
 st.markdown("---")
