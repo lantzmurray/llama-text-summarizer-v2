@@ -2,6 +2,10 @@
 
 A local AI text summarization application that uses LLaMA 2 via Ollama to generate concise summaries of long text documents. Perfect for content creators, students, researchers, and anyone who needs to quickly understand lengthy documents.
 
+## Screenshot
+
+![TextSummarizerDemo](TextSummarizerDemo.png)
+
 ## Features
 
 - **Text Summarization**: Generates concise summaries of long documents
